@@ -21,4 +21,10 @@ a{
 }
 footer{
     position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: cadetblue;
+}
+footer p{
+    margin-left: 2%;
 }
