@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: navy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: lightslategray;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: black;
+}
+.linkardo{
+    text-align: center;
+    margin-top: 2%;
+}
+#primerLink{
+    margin-top: 5%;
+}
