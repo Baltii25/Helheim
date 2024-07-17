@@ -19,3 +19,6 @@ a{
 #primerLink{
     margin-top: 5%;
 }
+footer{
+    position: fixed;
+}
